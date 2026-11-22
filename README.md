@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=247BFF&style=flat-square&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Mahirlokare&color=247BFF&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -125,7 +125,7 @@ I enjoy exploring new technologies, experimenting with machine learning models, 
 
 ## `04` — FEATURED PROJECTS
 
-### 🤖 TrustWender AI
+### 🤖 TrustVendor — AI-Powered Locality & Vendor Discovery
 
 An intelligent vendor and locality exploration platform designed to help users discover, compare and evaluate real-world options through integrated data and AI-oriented functionality.
 
@@ -139,7 +139,7 @@ An intelligent vendor and locality exploration platform designed to help users d
 - Manual locality information submission.
 - Database-backed information management.
 
-**Repository:** [Add GitHub repository link]
+**Repository:** [TrustVendor repository](https://github.com/Mahirlokare/TrustVendor)
 
 ---
 
@@ -226,13 +226,13 @@ My objective is to develop strong engineering fundamentals and build production-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=070B16&title_color=7DD3FC&icon_color=247BFF&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mahirlokare&show_icons=true&hide_border=true&theme=github_dark&bg_color=070B16&title_color=7DD3FC&icon_color=247BFF&text_color=FFFFFF" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=070B16&ring=247BFF&fire=7DD3FC" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahirlokare&theme=github-dark-blue&hide_border=true&background=070B16&ring=247BFF&fire=7DD3FC" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=070B16&title_color=7DD3FC&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahirlokare&layout=compact&hide_border=true&theme=github_dark&bg_color=070B16&title_color=7DD3FC&text_color=FFFFFF" height="170"/>
 
 </div>
 
@@ -242,7 +242,7 @@ My objective is to develop strong engineering fundamentals and build production-
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=070B16&color=7DD3FC&line=247BFF&point=FFFFFF&area=true&hide_border=true" width="96%"/>
+<img src="https://raw.githubusercontent.com/Mahirlokare/Mahirlokare/output/activity-graph.svg" width="96%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -252,11 +252,11 @@ My objective is to develop strong engineering fundamentals and build production-
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Mahirlokare">
 <img src="https://img.shields.io/badge/GITHUB-070B16?style=for-the-badge&logo=github&logoColor=7DD3FC"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="">
 <img src="https://img.shields.io/badge/LINKEDIN-247BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
