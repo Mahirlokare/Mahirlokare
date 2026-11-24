@@ -149,36 +149,40 @@ A platform focused on helping users explore localities, discover vendors and ser
 
 ---
 
-### 🌾 Farmer Advisory Agent — Multilingual Agricultural AI
+### 🤖 AI Code Reviewer — AI-Assisted Code Quality & Review Platform
 
-A planned AI-powered agricultural advisory system intended to make useful crop and farming guidance more accessible to farmers across India.
+An AI-assisted code review platform for analyzing source code and pull-request diffs, surfacing potential issues, and presenting review findings through a web dashboard. The repository includes a FastAPI backend and a React/Vite frontend.
 
-**Planned capabilities:**
-- Crop disease information and advisory.
-- Multilingual interaction across Indian languages.
-- Agricultural knowledge-base integration.
-- Crop-specific guidance and question answering.
-- Scalable data and retrieval architecture.
+**Stack:** `Python` `FastAPI` `React` `Vite` `Pydantic` `Pytest`
 
-**Focus:** `Python` `AI/ML` `LLMs` `RAG` `Agricultural Data`
+**Key capabilities:**
+- Submit code or diffs for automated review.
+- Detect common issues such as TODO/FIXME markers, credential-like assignments, debug prints, and bare exception handlers.
+- Explore findings through a responsive review dashboard.
+- GitHub webhook endpoint with SHA-256 signature validation.
 
-**Status:** Requirements discovery, planning and architecture.
+**Repository:** [AI Code Reviewer](https://github.com/Mahirlokare/ai-code-reviewer)
+
+**Deployment:** [Live frontend / deployment details](https://github.com/Mahirlokare/ai-code-reviewer#live-cloud-deployment-options)
 
 ---
 
-### ⛓️ CertiChain — Blockchain Document Verification
+### 🧬 AMR Drug Target Discovery — AI-Driven Computational Drug Discovery
 
-A blockchain-based certificate verification project designed to support document authenticity checks and reduce certificate forgery.
+An end-to-end computational research platform exploring molecular Graph Neural Networks and protein language-model embeddings to prioritize small molecules against antimicrobial-resistance targets, with a specific research focus on *Mycobacterium tuberculosis* InhA.
 
-**Stack:** `Solidity` `Ethereum` `SHA-256` `MetaMask` `Smart Contracts`
+**Stack:** `Python` `PyTorch Geometric` `RDKit` `ESM-2` `Streamlit` `AutoDock Vina`
 
-**Core work:**
-- Certificate issuance and revocation.
-- SHA-256 document hash verification.
-- Blockchain-based certificate records.
-- Public certificate verification.
-- Owner-authorized operations.
-- Duplicate and invalid record checks.
+**Key capabilities:**
+- Molecular graph and protein-sequence feature integration.
+- Scaffold-aware data splitting and leakage-conscious evaluation.
+- Candidate prioritization with uncertainty and applicability-domain checks.
+- In-silico docking and ADMET-oriented triage.
+- Interactive research dashboard and reproducible computational workflow.
+
+**Repository:** [AMR Drug Target Discovery](https://github.com/Mahirlokare/amr-drug-target-discovery)
+
+**Live application:** [amr-drug-target-discovery.onrender.com](https://amr-drug-target-discovery.onrender.com)
 
 ---
 
